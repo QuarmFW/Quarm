@@ -1,3 +1,4 @@
+![Quantum Swarm Banner](images/banner.jpg)
 # Quantum Swarm 🤖
 
 Quantum Swarm (QUARM) is a powerful multi-agent system that processes queries through a coordinated swarm of specialized AI agents. Each agent has a unique role in analyzing and responding to user queries, providing comprehensive and well-thought-out responses.
@@ -40,6 +41,8 @@ pip install -r requirements.txt
 
 3. Configure settings:
    - Copy `config/settings.py` and configure your API keys and preferences
+
+We have also created a webpage that allows you to generate the roles file in the proper format. [Click here to generate your roles file](https://quarm.io/generator.html).
 
 ## Usage 💡
 
