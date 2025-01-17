@@ -109,6 +109,10 @@ Key settings in `config/settings.py`:
   - `API_PORT`: API server port
   - `SSL_ENABLED`: Enable/disable SSL
 
+## C Language Integration
+
+- Check Quarm-C folder for C language implementation
+
 ## Contributing 🤝
 
 Contributions are welcome. Please feel free to submit a Pull Request. Please note that this project is currently in development phase, and the codebase is not yet fully stable. It's currently capable of processing queries through a set pipeline of multiple agents, and possible integrations with frameworks like ElizaOS are in the works.
